@@ -1,0 +1,33 @@
+Pour tester les différents fichiers et fonctions il faut au préalable télécharger les fichiers contenant les embeddings avec les commandes suivantes
+
+    !wget https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec
+    !wget https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.fr.vec
+    !wget https://dl.fbaipublicfiles.com/arrival/dictionaries/fr-en.txt
+    !wget https://dl.fbaipublicfiles.com/arrival/dictionaries/en-fr.txt
+
+    !curl -Lo wiki.en.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.vec
+    !curl -Lo wiki.fr.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.fr.vec
+    !curl -Lo wiki.fr-en.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/fr-en.txt
+    !curl -Lo wiki.en-fr.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/en-fr.txt
+
+    !curl -Lo wiki.he.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.he.vec
+    !curl -Lo wiki.he-en.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/he-en.txt
+    !curl -Lo wiki.en-he.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/en-he.txt
+
+    !curl -Lo wiki.el.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.el.vec
+    !curl -Lo wiki.el-en.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/el-en.txt
+    !curl -Lo wiki.en-el.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/en-el.txt
+
+    !curl -Lo wiki.es.vec https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.es.vec
+    !curl -Lo wiki.es-en.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/es-en.txt
+    !curl -Lo wiki.en-es.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/en-es.txt
+
+    !curl -Lo wiki.he-es.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/he-es.txt
+    !curl -Lo wiki.es-he.vec https://dl.fbaipublicfiles.com/arrival/dictionaries/es-he.txt
+
+
+Les fonctions utiles pour le projet se trouvent dans le fichier word_utils.py
+Un exemple de leur utilisation se trouve dans le fichier translation_example.py où la traduction des mots du français vers l'anglais est proposé.
+Par ailleurs, le fichier figures.py proposent une utilisation de ces différents fonctions pour obtenir des courbes.
+
+Un rapport est également présent pour expliquer notre démarche ainsi que la présentation du 19/11/20
