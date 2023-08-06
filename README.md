@@ -1,6 +1,6 @@
 # DataScience-Projects
 M2 - IASD Data Science Projects
 
-[Report]([A2 - Embedding, Translation System/Data_Science_2.pdf](https://github.com/laureneb26/DataScience-Projects/blob/main/A2%20-%20Embedding%2C%20Translation%20System/Data_Science_2.pdf)https://github.com/laureneb26/DataScience-Projects/blob/main/A2%20-%20Embedding%2C%20Translation%20System/Data_Science_2.pdf)
+This folder contains three projects that were completed as part of the M.Sc. IASD at PSL respectively A1, A2 and A3.
 
 
