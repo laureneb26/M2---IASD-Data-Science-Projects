@@ -3,8 +3,6 @@ M2 - IASD Data Science Projects
 
 This folder contains three projects that were completed as part of the M.Sc. IASD at PSL respectively A1, A2 and A3 as well as my thesis (final project) which you will find the paper hereafter.
 
-# Aperçu du PDF
-
 ![Page 1](https://github.com/laureneb26/M2---IASD-Data-Science-Projects/blob/caebfcc6115cf788e7330ff6e0dba7faaee7de01/Master%20Thesis%20IASD%20-%20Laurene%20Bouskila/7aee29eb-01.png)
 ![Page 2](https://github.com/laureneb26/M2---IASD-Data-Science-Projects/blob/caebfcc6115cf788e7330ff6e0dba7faaee7de01/Master%20Thesis%20IASD%20-%20Laurene%20Bouskila/7aee29eb-02.png)
 ![Page 3](https://github.com/laureneb26/M2---IASD-Data-Science-Projects/blob/caebfcc6115cf788e7330ff6e0dba7faaee7de01/Master%20Thesis%20IASD%20-%20Laurene%20Bouskila/7aee29eb-03.png)
